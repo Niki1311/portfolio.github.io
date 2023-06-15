@@ -15,6 +15,10 @@ body {
   
 }
 
+.email-section {
+  float: right;
+}
+
 .about {
   font-family: "Open Sans", sans-serif;
   color: #090508;
